@@ -165,3 +165,16 @@ ru:
     "Asia/Ust-Nera": "Усть-Нера" # UTC +10:00
     "Asia/Sakhalin": "Сахалин" # UTC +11:00
     "Asia/Anadyr": "Анадырь" # UTC +12:00
+    "Europe/Uzhgorod": "Ужгород" # UTC +02:00
+    "Europe/Zaporozhye": "Запорожье" # UTC +02:00
+    "Europe/Chisinau": "Кишинев" # UTC +02:00
+    "Asia/Aqtau": "Актау" # UTC +05:00
+    "Asia/Aqtobe": "Актобе" # UTC +05:00
+    "Asia/Atyrau": "Атырау" # UTC +05:00
+    "Asia/Oral": "Орал" # UTC +05:00
+    "Asia/Qyzylorda": "Кызылорда" # UTC +05:00
+    "Asia/Dushanbe": "Душанбе" # UTC +05:00
+    "Asia/Samarkand": "Самарканд" # UTC +05:00
+    "Asia/Ashgabat": "Ашхабад" # UTC +05:00
+    "Asia/Qostanay": "Костанай" # UTC +06:00
+    "Asia/Bishkek": "Бишкек" # UTC +06:00
