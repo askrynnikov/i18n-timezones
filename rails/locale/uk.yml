@@ -1,0 +1,167 @@
+ru:
+  timezones:
+    "International Date Line West": "Міжнародна лінія зміни дат" # UTC -12:00
+    "American Samoa": "Американське Самоа" # UTC -11:00
+    "Midway Island": "Острів Мідвей" # UTC -11:00
+    "Hawaii": "Гаваї" # UTC -10:00
+    "Alaska": "Аляска" # UTC -09:00
+    "Pacific Time (US & Canada)": "Північноамериканський тихоокеанський час" # UTC -08:00
+    "Tijuana": "Тіхуана" # UTC -08:00
+    "Arizona": "Арізона" # UTC -07:00
+    "Chihuahua": "Чихуахуа" # UTC -07:00
+    "Mazatlan": "Масатлан" # UTC -07:00
+    "Mountain Time (US & Canada)": "Північноамериканський гірський час" # UTC -07:00
+    "Central America": "Центральна Америка" # UTC -06:00
+    "Central Time (US & Canada)": "Північноамериканський центральний час" # UTC -06:00
+    "Guadalajara": "Гвадалахара" # UTC -06:00
+    "Mexico City": "Мехіко" # UTC -06:00
+    "Monterrey": "Монтеррей" # UTC -06:00
+    "Saskatchewan": "Саскачеван" # UTC -06:00
+    "Bogota": "Богота" # UTC -05:00
+    "Eastern Time (US & Canada)": "Північноамериканський східний час" # UTC -05:00
+    "Indiana (East)": "Індіана" # UTC -05:00
+    "Lima": "Ліма" # UTC -05:00
+    "Quito": "Кіто" # UTC -05:00
+    "Atlantic Time (Canada)": "Північноамериканський атлантичний час" # UTC -04:00
+    "Caracas": "Каракас" # UTC -04:00
+    "Georgetown": "Джорджтаун" # UTC -04:00
+    "La Paz": "Ла-Пас" # UTC -04:00
+    "Puerto Rico": "Пуерто-Ріко" # UTC -04:00
+    "Santiago": "Сантьяго" # UTC -04:00
+    "Newfoundland": "Ньюфаундленд" # UTC -03:30
+    "Brasilia": "Бразиліа" # UTC -03:00
+    "Buenos Aires": "Буенос айрес" # UTC -03:00
+    "Greenland": "Гренландія" # UTC -03:00
+    "Montevideo": "Монтевідео" # UTC -03:00
+    "Mid-Atlantic": "Центральноатлантичний час" # UTC -02:00
+    "Azores": "Азорські острови" # UTC -01:00
+    "Cape Verde Is.": "Острови Кабо-Верде" # UTC -01:00
+    "Edinburgh": "Едінбург" # UTC +00:00
+    "Lisbon": "Лісабон" # UTC +00:00
+    "London": "Лондон" # UTC +00:00
+    "Monrovia": "Монровія" # UTC +00:00
+    "UTC": "Світовий координований час (UTC)" # UTC +00:00
+    "Amsterdam": "Амстердам" # UTC +01:00
+    "Belgrade": "Белград" # UTC +01:00
+    "Berlin": "Берлін" # UTC +01:00
+    "Bern": "Берн" # UTC +01:00
+    "Bratislava": "Братислава" # UTC +01:00
+    "Brussels": "Брюссель" # UTC +01:00
+    "Budapest": "Будапешт" # UTC +01:00
+    "Casablanca": "Касабланка" # UTC +01:00
+    "Copenhagen": "Копенгаген" # UTC +01:00
+    "Dublin": "Дублін" # UTC +01:00
+    "Ljubljana": "Любляна" # UTC +01:00
+    "Madrid": "Мадрид" # UTC +01:00
+    "Paris": "Париж" # UTC +01:00
+    "Prague": "Прага" # UTC +01:00
+    "Rome": "Рим" # UTC +01:00
+    "Sarajevo": "Сараєво" # UTC +01:00
+    "Skopje": "Скоп'є" # UTC +01:00
+    "Stockholm": "Стокгольм" # UTC +01:00
+    "Vienna": "Відень" # UTC +01:00
+    "Warsaw": "Варшава" # UTC +01:00
+    "West Central Africa": "Західноафриканський час" # UTC +01:00
+    "Zagreb": "Загреб" # UTC +01:00
+    "Zurich": "Цюріх" # UTC +01:00
+    "Athens": "Афіни" # UTC +02:00
+    "Bucharest": "Бухарест" # UTC +02:00
+    "Cairo": "Каїр" # UTC +02:00
+    "Harare": "Хараре" # UTC +02:00
+    "Helsinki": "Гельсінкі" # UTC +02:00
+    "Jerusalem": "Єрусалим" # UTC +02:00
+    "Kaliningrad": "Калінінград" # UTC +02:00
+    "Kyiv": "Київ" # UTC +02:00
+    "Pretoria": "Преторія" # UTC +02:00
+    "Riga": "Рига" # UTC +02:00
+    "Sofia": "Софія" # UTC +02:00
+    "Tallinn": "Таллінн" # UTC +02:00
+    "Vilnius": "Вільнюс" # UTC +02:00
+    "Baghdad": "Багдад" # UTC +03:00
+    "Istanbul": "Стамбул" # UTC +03:00
+    "Kuwait": "Кувейт" # UTC +03:00
+    "Minsk": "Мінськ" # UTC +03:00
+    "Moscow": "Москва" # UTC +03:00
+    "Nairobi": "Найробі" # UTC +03:00
+    "Riyadh": "Ер-Ріяд" # UTC +03:00
+    "St. Petersburg": "Санкт-Петербург" # UTC +03:00
+    "Volgograd": "Волгоград" # UTC +03:00
+    "Tehran": "Тегеран" # UTC +03:30
+    "Abu Dhabi": "Абу Дабі" # UTC +04:00
+    "Baku": "Баку" # UTC +04:00
+    "Muscat": "Мускат" # UTC +04:00
+    "Samara": "Самара" # UTC +04:00
+    "Tbilisi": "Тбілісі" # UTC +04:00
+    "Yerevan": "Єреван" # UTC +04:00
+    "Kabul": "Кабул" # UTC +04:30
+    "Ekaterinburg": "Єкатеринбург" # UTC +05:00
+    "Islamabad": "Ісламабад" # UTC +05:00
+    "Karachi": "Карачі" # UTC +05:00
+    "Tashkent": "Ташкент" # UTC +05:00
+    "Chennai": "Ченнаї" # UTC +05:30
+    "Kolkata": "Калькутта" # UTC +05:30
+    "Mumbai": "Мумбаї" # UTC +05:30
+    "New Delhi": "Нью-Делі" # UTC +05:30
+    "Sri Jayawardenepura": "Шрі-Джаяварденепура-Котте" # UTC +05:30
+    "Kathmandu": "Катманду" # UTC +05:45
+    "Almaty": "Алмати" # UTC +06:00
+    "Astana": "Астана" # UTC +06:00
+    "Dhaka": "Дакка" # UTC +06:00
+    "Urumqi": "Урумчі" # UTC +06:00
+    "Rangoon": "Рангун" # UTC +06:30
+    "Bangkok": "Бангкок" # UTC +07:00
+    "Hanoi": "Ханой" # UTC +07:00
+    "Jakarta": "Джакарта" # UTC +07:00
+    "Krasnoyarsk": "Красноярськ" # UTC +07:00
+    "Novosibirsk": "Новосибірськ" # UTC +07:00
+    "Beijing": "Пекін" # UTC +08:00
+    "Chongqing": "Чунцін" # UTC +08:00
+    "Hong Kong": "Гонконг" # UTC +08:00
+    "Irkutsk": "Іркутськ" # UTC +08:00
+    "Kuala Lumpur": "Куала Лумпур" # UTC +08:00
+    "Perth": "Перт" # UTC +08:00
+    "Singapore": "Сінгапур" # UTC +08:00
+    "Taipei": "Тайбей" # UTC +08:00
+    "Ulaanbaatar": "Улан-Батор" # UTC +08:00
+    "Osaka": "Осака" # UTC +09:00
+    "Sapporo": "Саппоро" # UTC +09:00
+    "Seoul": "Сеул" # UTC +09:00
+    "Tokyo": "Токіо" # UTC +09:00
+    "Yakutsk": "Якутськ" # UTC +09:00
+    "Adelaide": "Аделаїда" # UTC +09:30
+    "Darwin": "Дарвін" # UTC +09:30
+    "Brisbane": "Брісбен" # UTC +10:00
+    "Canberra": "Канберра" # UTC +10:00
+    "Guam": "Гуам" # UTC +10:00
+    "Hobart": "Хобарт" # UTC +10:00
+    "Melbourne": "Мельбурн" # UTC +10:00
+    "Port Moresby": "Порт-Морсбі" # UTC +10:00
+    "Sydney": "Сідней" # UTC +10:00
+    "Vladivostok": "Владивосток" # UTC +10:00
+    "Magadan": "Магадан" # UTC +11:00
+    "New Caledonia": "Нова Каледонія" # UTC +11:00
+    "Solomon Is.": "Соломонові острови" # UTC +11:00
+    "Srednekolymsk": "Середньоколимськ" # UTC +11:00
+    "Auckland": "Окленд" # UTC +12:00
+    "Fiji": "Фіджі" # UTC +12:00
+    "Kamchatka": "Камчатка" # UTC +12:00
+    "Marshall Is.": "Маршаллові острови" # UTC +12:00
+    "Wellington": "Веллінгтон" # UTC +12:00
+    "Chatham Is.": "Острів Чатем" # UTC +12:45
+    "Nuku'alofa": "Нукуалофа" # UTC +13:00
+    "Samoa": "Самоа" # UTC +13:00
+    "Tokelau Is.": "Токелау" # UTC +13:00
+    "Europe/Kirov": "Кіров" # UTC +03:00
+    "Europe/Simferopol": "Сімферополь" # UTC +03:00
+    "Europe/Astrakhan": "Астрахань" # UTC +04:00
+    "Europe/Saratov": "Саратов" # UTC +04:00
+    "Europe/Ulyanovsk": "Ульяновськ" # UTC +04:00
+    "Asia/Omsk": "Київ" # UTC +06:00
+    "Asia/Barnaul": "Барнаул" # UTC +07:00
+    "Asia/Novokuznetsk": "Новокузнецьк" # UTC +07:00
+    "Asia/Tomsk": "Томськ" # UTC +07:00
+    "Asia/Chita": "Чита" # UTC +09:00
+    "Asia/Khandyga": "Хандига" # UTC +09:00
+    "Asia/Ust-Nera": "Усть-Нера" # UTC +10:00
+    "Asia/Sakhalin": "Сахалін" # UTC +11:00
+    "Asia/Anadyr": "Анадир" # UTC +12:00
