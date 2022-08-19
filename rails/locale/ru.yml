@@ -151,3 +151,17 @@ ru:
     "Nuku'alofa": "Нукуалофа" # UTC +13:00
     "Samoa": "Самоа" # UTC +13:00
     "Tokelau Is.": "Токелау" # UTC +13:00
+    "Europe/Kirov": "Киров" # UTC +03:00
+    "Europe/Simferopol": "Симферополь" # UTC +03:00
+    "Europe/Astrakhan": "Астрахань" # UTC +04:00
+    "Europe/Saratov": "Саратов" # UTC +04:00
+    "Europe/Ulyanovsk": "Ульяновск" # UTC +04:00
+    "Asia/Omsk": "Омск" # UTC +06:00
+    "Asia/Barnaul": "Барнаул" # UTC +07:00
+    "Asia/Novokuznetsk": "Новокузнецк" # UTC +07:00
+    "Asia/Tomsk": "Томск" # UTC +07:00
+    "Asia/Chita": "Чита" # UTC +09:00
+    "Asia/Khandyga": "Хандыга" # UTC +09:00
+    "Asia/Ust-Nera": "Усть-Нера" # UTC +10:00
+    "Asia/Sakhalin": "Сахалин" # UTC +11:00
+    "Asia/Anadyr": "Анадырь" # UTC +12:00
